@@ -1,4 +1,36 @@
-<<<<<<< HEAD
+//screenshot 
+<img width="1903" height="632" alt="Capture d&#39;écran next " src="https://github.com/user-attachments/assets/ecfab723-719a-43f4-a2b4-d82e46b40cec" />
+
+                
+                  
+                  
+                  
+  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
