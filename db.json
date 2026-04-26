@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin User",
+      "email": "admin@taskflow.com",
+      "password": "1234",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "name": "John Doe",
+      "email": "user@taskflow.com",
+      "password": "1234",
+      "role": "user"
+    }
+  ],
+  "projects": [
+    {
+      "id": "3",
+      "name": "Projet Gamma",
+      "color": "#3498DB"
+    },
+    {
+      "id": "1777208734511",
+      "name": "ai",
+      "color": "#3498db"
+    }
+  ],
+  "tasks": []
+}
